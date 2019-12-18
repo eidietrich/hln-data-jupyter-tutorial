@@ -2,7 +2,7 @@
 
 ## Getting started
 
-1. Download the Anaconda Python 3.7 distribution for your operating system from https://www.anaconda.com/distribution/
+1. Download + install the Anaconda Python 3.7 distribution for your operating system from https://www.anaconda.com/distribution/
 2. Download this tutorial repository (folder) and move it to a convenient place on your computer (e.g. a `Coding/` folder)
     - With git (if you know what that is): `git clone https://github.com/eidietrich/hln-data-jupyter-tutorial`
     - Or: click the green `Clone or download` button at the upper right on this page, then `Download ZIP`, then unzip
@@ -25,11 +25,10 @@
 
 - `python-intro.ipynb` - Start here if you're brand new to coding
 - `jupyter-intro.ipynb` - Start here if you're new to Jupyter Notebooks
-- `pandas-intro.ipynb` - **TK** Introduction to the Pandas data analysis library, which equips Python with data wrangling tools
-- `demo-pandas-data-cleaning` - **TK** Demo notebook showing some methods for cleaning data with Pandas
-- `demo-pandas-data-exploration` - **TK** Demo notebook showing some methods for exploring data with Pandas
-- `demo-data-scraping` - **TK** Demo showing how to use TK Scraping library to fetch data from TK Source
-- `demo-altair-data-visualiztion` - **TK** Demo showing how to use the Altair library to visualize data
-- `data/` - Folder with tutorial data files
+- `pandas-intro.ipynb` - Introduction to the Pandas data analysis library, which equips Python with data wrangling tools
+- `demo-data-scraping` - Demo using requests library to fetch list of 2020 statewide candidates from Montana COPP website
+- `demo-altair-data-visualiztion` - Demo showing how to use the Altair library to visualize data
+
+- `data/` - Folder with some data files to play with
 - `README.md` - The text you're reading right now
 - `.gitignore` - A Git/GitHub housekeeping file; feel free to ignore
